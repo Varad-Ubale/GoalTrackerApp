@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoalTrackerApp</string>
+    <string name="add_new_goal">Add new goal</string>
+    <string name="app_header">Goal Tracker App</string>
+    <string name="copyright_text">© Made by Varad Ubale</string>
+</resources>
